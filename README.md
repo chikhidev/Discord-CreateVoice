@@ -23,3 +23,4 @@ The bot offers unique settings for each guild. Settings are provided as an objec
 **Category**: ID of the category (parent) the channels will be put in  
 **Position**: The spawn position of the new channel (counted from below)  
 **TTL**: Time to live (in seconds) before the channel gets deleted
+# Discord-CreateVoice
