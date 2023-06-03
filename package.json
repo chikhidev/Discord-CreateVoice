@@ -4,7 +4,8 @@
 	"description": "A discord.js bot for creating custom voice channels.",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "npx nodemon"
 	},
 	"author": "NKN1396",
 	"license": "MIT",
